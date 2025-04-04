@@ -12,13 +12,10 @@ Welcome to my GitHub profile! I am a passionate and results-driven **Frontend De
 - **Frameworks/Libraries**: ReactJS, Bootstrap, TailwindCSS
 - **Tools**: Figma, Git, VS Code, NPM
 
-## 📈 GitHub Stats
-
-![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
 ## 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
 - [Twitter](https://twitter.com/YOUR_TWITTER)
 - [Personal Website](https://www.yourwebsite.com)
 
 Thank you for visiting my GitHub! Looking forward to connecting and collaborating. 😊
+
