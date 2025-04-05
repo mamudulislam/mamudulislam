@@ -1,5 +1,5 @@
 ![Web developer](https://cdn3.f-cdn.com/files/download/97941784/programmin.jpg?image-optimizer=force&format=webply&width=967) <h3>Hi there 👋, my name is Mamudul Islam</h3>
-<h1 style="red">Web developer</h1>
+<h1 style="color:red;">Web developer</h1>
 
 Welcome to my GitHub profile! I am a passionate and results-driven Frontend Developer with a focus on building responsive, user-friendly web applications. I specialize in creating seamless user experiences using modern tools and technologies.
 
