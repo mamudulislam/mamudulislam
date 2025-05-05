@@ -1,5 +1,5 @@
 <h3>Hi there 👋, my name is Mamudul Islam from Bangladesh.</h3>
-<h1>Web developer</h1>
+<h1>MERN Stack Developer</h1>
 
 Welcome to my GitHub profile! I am a passionate and results-driven Frontend Developer with a focus on building responsive, user-friendly web applications. I specialize in creating seamless user experiences using modern tools and technologies.
 
