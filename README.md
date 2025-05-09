@@ -1,49 +1,31 @@
-<h3 align="center">Hi there 👋, I'm Mamudul Islam</h3>
-<h2 align="center">🌐 MERN Stack Developer | Frontend Specialist</h2>
+<h3>Hi there 👋, I'm Mamudul Islam from Bangladesh.</h3>
+<h1>🚀 MERN Stack Developer</h1>
 
-<p align="center">
-  Passionate about building responsive, scalable, and user-centric web applications using modern technologies.
-</p>
+👋 Welcome to my GitHub profile!
 
----
-
-### 👨‍💻 About Me
-
-I'm a dedicated **Frontend Developer** from **Bangladesh**, specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I focus on creating intuitive user experiences and clean, maintainable code. I’m committed to continuous learning and delivering high-quality solutions in every project I work on.
+I'm a passionate and results-driven Frontend Developer with a strong focus on building responsive, user-friendly web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js). I specialize in creating seamless user experiences and scalable applications by leveraging modern tools, clean code, and best development practices.
 
 ---
 
-### 🚀 Tech Stack & Tools
-
-- **Languages:** JavaScript, HTML, CSS  
-- **Frontend:** React.js, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Basic knowledge)  
-- **Design & UI:** Figma  
-- **Version Control:** Git & GitHub  
+### 🛠️ Skills & Technologies
+- 💡 **Design & Prototyping:** Figma  
+- ⚛️ **Frontend:** ReactJS, JavaScript, HTML, CSS, TailwindCSS, Bootstrap  
+- 🖥️ **Backend & Tools:** Node.js, Express.js, MongoDB (Basic), Git
 
 ---
 
-### 📈 Currently Working On
+### 🌱 Currently Learning
+- JavaScript (deepening my understanding)
 
-- Improving my expertise in **JavaScript** and **React.js**
-- Building personal projects to enhance my MERN stack skills
+### 🤝 Let's Collaborate
+- I'm open to contributing to interesting GitHub projects.
 
----
+### 💬 Ask Me About
+- Web development, frontend technologies, or anything MERN!
 
-### 🤝 Looking To Collaborate On
-
-- Open-source MERN stack projects  
-- Frontend-focused web applications  
-- UI/UX improvements for existing projects
-
----
-
-### 💬 Let's Connect
-
-- 📧 Email: **mamuduli153@gmail.com**
-- 🌍 Always open to collaboration and learning opportunities!
+### 📫 Reach Me At
+- 📧 **mamuduli153@gmail.com**
 
 ---
 
-<p align="center">Thanks for visiting my profile! ⭐</p>
+⭐️ Thanks for visiting my profile!
