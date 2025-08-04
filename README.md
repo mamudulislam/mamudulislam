@@ -3,6 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamudulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mamudulislam" /> </p>
 
+- 🔭 I’m currently working on **Fronted development**
+
+- 🌱 I’m currently learning **Javascript**
+
+- 👯 I’m looking to collaborate on **https://github.com/mamudulislam**
+
+- 🤝 I’m looking for help with **mamuduli153@gmail.com**
+
+- 📝 I regularly write articles on [blog link](blog link)
+
+- 💬 Ask me about **react, and gsap**
+
+- 📫 How to reach me **mamuduli153@gmail.com**
+
+- 📄 Know about my experiences [resume link](resume link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mamudul-islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mamudul-islam/" height="30" width="40" /></a>
