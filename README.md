@@ -31,10 +31,4 @@ I am a passionate Front-End Developer focused on building responsive, accessible
 
 ---
 
-### 📊 GitHub Stats
-
-![Mamudul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 Thank you for visiting my profile! Feel free to explore my projects and reach out if you want to collaborate or chat about tech.
