@@ -32,8 +32,4 @@ Git | GitHub Actions | ESLint | Prettier | Jest | Cypress
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mamudul_dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamudul.islam@example.com)
 
-## 🏆 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 > "Clean code always looks like it was written by someone who cares." — Robert C. Martin
