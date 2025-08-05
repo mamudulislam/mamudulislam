@@ -1,34 +1,39 @@
-# Hi there, I'm Mamudul Islam 👋
+# Mamudul Islam | Front-End Developer
 
-I am a passionate Front-End Developer focused on building responsive, accessible, and modern web applications.
+Passionate about crafting pixel-perfect, accessible web applications with modern JavaScript frameworks. Specializing in React performance optimization and responsive design systems.
 
----
+## 🛠 Technical Expertise
 
-### 🚀 About Me
+**Front-End Development**  
+React.js (v19+) | Next.js | TypeScript | JavaScript (ES6+)  
+Redux Toolkit | React Query | Zustand  
 
-- 💻 Experienced with React.js (v19), Tailwind CSS (v4), Redux Toolkit, and JavaScript (ES6+)
-- 🎯 Currently learning WebSockets and real-time features for interactive applications
-- 🛠️ Building scalable, maintainable, and user-friendly front-end projects
-- 🌱 Continuously improving my skills in full-stack development and modern web technologies
+**Styling & Design Systems**  
+Tailwind CSS (v4) | CSS Modules | Sass | Framer Motion  
 
----
+**Development Tools**  
+Git | GitHub Actions | ESLint | Prettier | Jest | Cypress  
 
-### 🛠️ Technologies & Tools
+## 🔭 Current Focus
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Implementing real-time features with WebSockets
+- Exploring advanced React patterns (Compound Components, State Machines)
+- Building full-stack capabilities with Node.js and Express
 
----
+## 📈 Recent Achievements
 
-### 📫 Connect with Me
+- Optimized React application performance by 40% through code splitting and memoization
+- Led migration from legacy CSS to Tailwind CSS in enterprise project
+- Implemented CI/CD pipeline reducing deployment time by 65%
 
-- LinkedIn: [linkedin.com/in/mamudul-islam](https://linkedin.com/in/mamudul-islam)
-- Twitter: [@mamudul_dev](https://twitter.com/mamudul_dev)
-- Email: mamudul.islam@example.com
+## 🤝 Let's Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamudul-islam)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mamudul_dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamudul.islam@example.com)
 
-Thank you for visiting my profile! Feel free to explore my projects and reach out if you want to collaborate or chat about tech.
+## 🏆 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+> "Clean code always looks like it was written by someone who cares." — Robert C. Martin
