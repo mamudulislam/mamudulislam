@@ -24,7 +24,6 @@ Git | GitHub Actions | ESLint | Prettier | Jest | Cypress
 
 - Optimized React application performance by 40% through code splitting and memoization
 - Led migration from legacy CSS to Tailwind CSS in enterprise project
-- Implemented CI/CD pipeline reducing deployment time by 65%
 
 ## 🤝 Let's Connect
 
