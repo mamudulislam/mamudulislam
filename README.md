@@ -9,7 +9,7 @@ React.js (v19+) | Next.js | TypeScript | JavaScript (ES6+)
 Redux Toolkit | React Query | Zustand  
 
 **Styling & Design Systems**  
-Tailwind CSS (v4) | CSS Modules | Sass | Framer Motion  
+Tailwind CSS (v4) | CSS Modules | Sass | Framer Motion  |  ShadCN  
 
 **Development Tools**  
 Git | GitHub Actions | ESLint | Prettier | Jest | Cypress  
