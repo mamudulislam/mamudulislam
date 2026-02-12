@@ -1,4 +1,4 @@
-# Syed Mamudul Islam | MERN Developer
+# Syed Mamudul Islam | Software Developer
 
 Passionate about crafting pixel-perfect, accessible web applications with modern JavaScript frameworks. Specializing in React performance optimization and responsive design systems.
 
