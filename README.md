@@ -1,64 +1,175 @@
-# Hi there 👋, I'm Syed Mamudul Islam! 
+# 👋 Hi, I'm Syed Mamudul Islam
+
+### Software Developer · React · Next.js · TypeScript
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer;React.js+Specialist;UI%2FUX+Enthusiast;Building+Accessible+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+TypeScript;Performance+%7C+Accessibility+%7C+Clean+UI;Always+learning%2C+always+building." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mamudulislam">
+    <img src="https://komarev.com/ghpvc/?username=mamudulislam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/mamudulislam?tab=followers">
+    <img src="https://img.shields.io/github/followers/mamudulislam?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  </a>
 </p>
 
 ---
 
-Passionate about crafting pixel-perfect, accessible web applications with modern JavaScript frameworks. Specializing in React performance optimization and responsive design systems.
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamudul-islam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F2937&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamudul-islam&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F2937&title_color=38BDF8&text_color=E5E7EB" alt="Top Languages" />
+I'm a **Software Developer** focused on building fast, accessible, and scalable web applications.
+
+I enjoy turning complex ideas into **clean interfaces, reusable components, and smooth user experiences**.
+
+```typescript
+const developer = {
+  name: "Syed Mamudul Islam",
+  role: "Software Developer",
+  focus: ["React", "Next.js", "TypeScript"],
+  currentlyLearning: ["WebSockets", "Advanced React Patterns", "Node.js"],
+  mindset: "Build → Learn → Improve → Repeat"
+};
+```
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript" />
+</p>
+
+### State Management & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+`Redux Toolkit` · `React Query` · `Zustand`
+
+### Styling & UI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,css" />
+</p>
+
+`Tailwind CSS` · `CSS Modules` · `Sass` · `Framer Motion` · `ShadCN`
+
+### Tools & Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,eslint,jest,cypress,vscode" />
 </p>
 
 ---
 
-## 🛠 Technical Expertise
+## 🔭 Currently Building
 
-| Category | Technologies |
-| :--- | :--- |
-| **Front-End** | React.js (v19+) | Next.js | TypeScript | JavaScript (ES6+) |
-| **State Management** | Redux Toolkit | React Query | Zustand |
-| **Styling & UI** | Tailwind CSS (v4) | CSS Modules | Sass | Framer Motion | ShadCN |
-| **Testing & Tools** | Git | GitHub Actions | ESLint | Prettier | Jest | Cypress |
+```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  ⚡ Real-time Web Applications                   │
+│                                                  │
+│  🧩 Advanced React Patterns                      │
+│                                                  │
+│  🔄 WebSockets & Real-time Communication         │
+│                                                  │
+│  🛠 Full-stack Applications with Node.js         │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+### Current Focus
+
+* ⚡ Real-time applications with **WebSockets**
+* 🧩 Compound Components & advanced React patterns
+* 🤖 State Machines and scalable frontend architecture
+* 🟢 Node.js & Express backend development
+* 📦 Building reusable design systems
+* 🚀 React performance optimization
 
 ---
 
-## 🔭 Current Focus
+## 📈 What I Care About
 
-- 🔌 Implementing real-time features with WebSockets
-- ⚛️ Exploring advanced React patterns (Compound Components, State Machines)
-- 🚀 Building full-stack capabilities with Node.js and Express
-
----
-
-## 📈 Recent Achievements
-
-- ⚡ Optimized React application performance by **40%** through code splitting and memoization.
-- 🎨 Led migration from legacy CSS to Tailwind CSS in an enterprise project.
+| Area            | Focus                                     |
+| --------------- | ----------------------------------------- |
+| ⚡ Performance   | Fast rendering & optimized bundles        |
+| ♿ Accessibility | Interfaces everyone can use               |
+| 🎨 UI/UX        | Clean, responsive & intuitive experiences |
+| 🧩 Architecture | Maintainable & scalable code              |
+| 🧪 Quality      | Testing, linting & reliable code          |
+| 🔐 Security     | Secure application architecture           |
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 Highlights
+
+* ⚡ Improved React application performance by **40%** through code splitting and memoization
+* 🎨 Migrated legacy CSS architecture to **Tailwind CSS**
+* 🧩 Building reusable and scalable React component systems
+* 📱 Focused on responsive, accessible interfaces
+* 🚀 Continuously exploring modern frontend architecture
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamudulislam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamudulislam&hide_border=true&theme=transparent" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamudulislam&hide_border=true&theme=github-compact" width="95%" />
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mamudulislam/mamudulislam/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/mamudulislam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mamudulislam&repo=AI_CODER&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mamudul-islam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mamudul_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://github.com/mamudulislam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:mamudul.islam@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-> > "Clean code always looks like it was written by someone who cares." — Robert C. Martin
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mamudul-islam&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <i>"Clean code always looks like it was written by someone who cares."</i>
+  <br />
+  — Robert C. Martin
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%" />
 </p>
